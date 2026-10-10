@@ -1,0 +1,31 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Raw dataset
+data/raw/
+data/processed/
+
+# Local editor settings
+.vscode/
+
+# Test and coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
